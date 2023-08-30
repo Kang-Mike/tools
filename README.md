@@ -1,9 +1,9 @@
-# @fe9527/tool
+# @fe8868/tool
 
 ## 安装
 
 ```bash
-$ pnpm install @fe9527/tool
+$ pnpm install @fe8868/tool
 ```
 
 ### 已有方法
